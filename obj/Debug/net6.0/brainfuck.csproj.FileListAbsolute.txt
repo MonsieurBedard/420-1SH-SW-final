@@ -1,0 +1,15 @@
+/home/alexandre/Etudes/8-Hivers_2022/420-1SH-SW_veille_technologique/brainfuck/obj/Debug/net6.0/brainfuck.csproj.AssemblyReference.cache
+/home/alexandre/Etudes/8-Hivers_2022/420-1SH-SW_veille_technologique/brainfuck/obj/Debug/net6.0/brainfuck.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre/Etudes/8-Hivers_2022/420-1SH-SW_veille_technologique/brainfuck/obj/Debug/net6.0/brainfuck.AssemblyInfoInputs.cache
+/home/alexandre/Etudes/8-Hivers_2022/420-1SH-SW_veille_technologique/brainfuck/obj/Debug/net6.0/brainfuck.AssemblyInfo.cs
+/home/alexandre/Etudes/8-Hivers_2022/420-1SH-SW_veille_technologique/brainfuck/obj/Debug/net6.0/brainfuck.csproj.CoreCompileInputs.cache
+/home/alexandre/Etudes/8-Hivers_2022/420-1SH-SW_veille_technologique/brainfuck/bin/Debug/net6.0/brainfuck
+/home/alexandre/Etudes/8-Hivers_2022/420-1SH-SW_veille_technologique/brainfuck/bin/Debug/net6.0/brainfuck.deps.json
+/home/alexandre/Etudes/8-Hivers_2022/420-1SH-SW_veille_technologique/brainfuck/bin/Debug/net6.0/brainfuck.runtimeconfig.json
+/home/alexandre/Etudes/8-Hivers_2022/420-1SH-SW_veille_technologique/brainfuck/bin/Debug/net6.0/brainfuck.dll
+/home/alexandre/Etudes/8-Hivers_2022/420-1SH-SW_veille_technologique/brainfuck/bin/Debug/net6.0/ref/brainfuck.dll
+/home/alexandre/Etudes/8-Hivers_2022/420-1SH-SW_veille_technologique/brainfuck/bin/Debug/net6.0/brainfuck.pdb
+/home/alexandre/Etudes/8-Hivers_2022/420-1SH-SW_veille_technologique/brainfuck/obj/Debug/net6.0/brainfuck.dll
+/home/alexandre/Etudes/8-Hivers_2022/420-1SH-SW_veille_technologique/brainfuck/obj/Debug/net6.0/ref/brainfuck.dll
+/home/alexandre/Etudes/8-Hivers_2022/420-1SH-SW_veille_technologique/brainfuck/obj/Debug/net6.0/brainfuck.pdb
+/home/alexandre/Etudes/8-Hivers_2022/420-1SH-SW_veille_technologique/brainfuck/obj/Debug/net6.0/brainfuck.genruntimeconfig.cache
